@@ -1,3 +1,4 @@
-html {
-  font-family: $font-calibre;
+body {
+  font-family: $font-calibre, $font-sfmono, sans-serif;
+  font-weight: 500;
 }
